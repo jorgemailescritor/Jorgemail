@@ -1,0 +1,22 @@
+{
+  "name": "Athena - Editor Literário Inteligente",
+  "short_name": "Athena",
+  "description": "Editor de texto minimalista com ferramentas de IA para escritores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#fdfbf7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Owl_of_Athena_-_Athenian_tetradrachm_coin_-_AoE.png/192px-Owl_of_Athena_-_Athenian_tetradrachm_coin_-_AoE.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Owl_of_Athena_-_Athenian_tetradrachm_coin_-_AoE.png/512px-Owl_of_Athena_-_Athenian_tetradrachm_coin_-_AoE.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
